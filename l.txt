@@ -1,0 +1,3 @@
+tg = 6888814501:AAGNHq1FIBCQyBPVGcFXOMycr0iWWFo_S1o
+payer = 01099ba9-ae9a-4fa2-865b-4d9edb921d39
+sergiirudniev/
